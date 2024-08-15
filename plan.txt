@@ -22,9 +22,6 @@ Eventuelt Eksempel 3 - flytte logo
     - lese/bruke verdi
   - operatorer 
     - tilordning 
-      - "vanlig"
-      - endring
-      - endre med én
     - pluss
     - minus
     - dele
@@ -37,6 +34,11 @@ Eksempel 2 - legge til ord
  - det samme med parametre
  - variere også tagg
  - telle ord - lokale vs globale variabler
+ - tilordning 
+   - "vanlig"
+   - endring
+   - endre med én
+
 
  Eventuelt Eksempel 3 - flytte logo 
  - forenkle kode med parametre 
