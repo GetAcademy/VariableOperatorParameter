@@ -1,0 +1,41 @@
+Overordnet plan for emne 1
+1. Intro 
+2. Funksjon, variabel, operator, valg 
+3. MVC og innebygd 
+4. Løkker og lister 
+5. Enhetstesting 
+6. Objekter
+
+Dagens plan: 
+ - variabler
+ - operatorer 
+ - parametre
+
+ Eksempel 1 - fordele kostnader
+  - variabler 
+    - deklarasjon
+    - tilordning
+    - lese/bruke verdi
+  - operatorer 
+    - tilordning 
+      - "vanlig"
+      - endring
+      - endre med én
+    - pluss
+    - minus
+    - dele
+  - lage HTML med verdier fra variabler
+  - "appifisere" - tall fra inputs
+  
+
+Eksempel 2 - legge til ord 
+ - ulik tekst, farge og størrelse manuelt
+ - det samme med parametre
+ - variere også tagg
+ - telle ord - lokale vs globale variabler
+
+ Eventuelt Eksempel 3 - flytte logo 
+ - forenkle kode med parametre 
+ - refactoring
+ - DRY
+
