@@ -11,6 +11,10 @@ Dagens plan:
  - operatorer 
  - parametre
 
+Eksempel 1 - fordele kostnader - variabler og operatorer
+Eksempel 2 - legge til ord     - funksjoner med parametre
+Eventuelt Eksempel 3 - flytte logo 
+
  Eksempel 1 - fordele kostnader
   - variabler 
     - deklarasjon
